@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @guruprasadah
-- 👀 I’m interested in AOSP... and keeping my marks high
-- 🌱 I’m currently learning some AOSP stuff - all on my own
-- 📫 How to reach me - through telepathy
+ 👋 Hi, I’m @guruprasadah
+ 
+  I'm just an angsty teen annoying Eggs Benedict(catch the reference). You'll mostly just see loooong periods of inactivity, except the occasional spark or two. Enjoy!
+  
+  [![Michael Afton's Resume](https://github-readme-stats.vercel.app/api?username=guruprasadah&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guruprasadah&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=guruprasadah&repo=android_system_extras_su&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
-guruprasadah/guruprasadah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
