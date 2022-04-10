@@ -6,3 +6,4 @@
  * I'm a linux fanboy
  * I take the worst possible decisions in an interactive progam.
  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guruprasadah&hide=css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
