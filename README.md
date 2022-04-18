@@ -1,9 +1,16 @@
- 👋 Hi, I’m @guruprasadah
+```
+                                                                                                /$$           /$$      
+                                                                                               | $$          | $$      
+  /$$$$$$  /$$   /$$  /$$$$$$  /$$   /$$  /$$$$$$   /$$$$$$  /$$$$$$   /$$$$$$$  /$$$$$$   /$$$$$$$  /$$$$$$ | $$$$$$$ 
+ /$$__  $$| $$  | $$ /$$__  $$| $$  | $$ /$$__  $$ /$$__  $$|____  $$ /$$_____/ |____  $$ /$$__  $$ |____  $$| $$__  $$
+| $$  \ $$| $$  | $$| $$  \__/| $$  | $$| $$  \ $$| $$  \__/ /$$$$$$$|  $$$$$$   /$$$$$$$| $$  | $$  /$$$$$$$| $$  \ $$
+| $$  | $$| $$  | $$| $$      | $$  | $$| $$  | $$| $$      /$$__  $$ \____  $$ /$$__  $$| $$  | $$ /$$__  $$| $$  | $$
+|  $$$$$$$|  $$$$$$/| $$      |  $$$$$$/| $$$$$$$/| $$     |  $$$$$$$ /$$$$$$$/|  $$$$$$$|  $$$$$$$|  $$$$$$$| $$  | $$
+ \____  $$ \______/ |__/       \______/ | $$____/ |__/      \_______/|_______/  \_______/ \_______/ \_______/|__/  |__/
+ /$$  \ $$                              | $$                                                                           
+|  $$$$$$/                              | $$                                                                           
+ \______/                               |__/ 
  
- I'm in 9th grade rn. If you've landed up here, go back. There's literally NOTHING in my profile. But if you still want to know more, here you go:
- * The timespan between my commits is a joke
- * I think I'm a codeing pro, but I'm really not.
- * I'm a linux fanboy
- * I take the worst possible decisions in an interactive progam.
+ ```
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guruprasadah&hide=css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
+ I'm in 9th grade rn. If you've landed up here, go back. I don't have anything of use to you, other than maybe my dotfiles. Go Away!! :angry:
