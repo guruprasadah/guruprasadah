@@ -1,4 +1,3 @@
-<!---
 ```
                                                                                                 /$$           /$$      
                                                                                                | $$          | $$      
@@ -13,7 +12,3 @@
  \______/                               |__/ 
  
  ```
---> 
-![](https://github.com/guruprasadah/guruprasadah/blob/main/Moosa.svg)
- 
- I'm in 9th grade rn. If you've landed up here, go back. I don't have anything of use to you, other than maybe my dotfiles. Go Away!! :angry:
