@@ -39,8 +39,4 @@ Because correctness matters.
 * Abstractions should justify their existence
 * Most problems are solved by thinking clearly, not adding complexity
 
-## 📫 Reach
-
-* GitHub: https://github.com/guruprasadah
-
 > I don’t build for noise. I build for clarity.
