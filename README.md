@@ -4,10 +4,9 @@ I build systems that are simple on the surface and sharp underneath.
 
 ## 🧠 Interests
 
-* Systems programming
 * Backend & infrastructure
 * Human-computer interaction (HTMX, real-time systems)
-* Multi-agent AI & decision systems
+* AI (Reinforcement Learning, Simulator training)
 * Performance and correctness
 
 ## 🔧 Things I’ve Built
@@ -26,6 +25,10 @@ Explores low-level control, performance, and ergonomics.
 
 A simple, IANA-compliant MIME-type string validator.
 Because correctness matters.
+
+### 🤖 fork of chocolate-doom
+
+A relatively simple fork of chocolate doom with game telemetry and external control, paired with a training server for PPO on a CNN based Reinforcement Learning architecture
 
 ## 🎯 Goals
 
