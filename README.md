@@ -7,7 +7,6 @@ I build systems that are simple on the surface and sharp underneath.
 * Backend & infrastructure
 * Human-computer interaction (HTMX, real-time systems)
 * AI (Reinforcement Learning, Simulator training)
-* Performance and correctness
 
 ## 🔧 Things I’ve Built
 
@@ -29,17 +28,3 @@ Because correctness matters.
 ### 🤖 fork of chocolate-doom
 
 A relatively simple fork of chocolate doom with game telemetry and external control, paired with a training server for PPO on a CNN based Reinforcement Learning architecture
-
-## 🎯 Goals
-
-* Build systems that are **useful, correct, and understandable**
-* Earn my place in high-quality engineering teams
-* Design technology that improves ergonomics and usability, not just output
-
-## 🧩 Philosophy
-
-* Simplicity is earned, not assumed
-* Abstractions should justify their existence
-* Most problems are solved by thinking clearly, not adding complexity
-
-> I don’t build for noise. I build for clarity.
