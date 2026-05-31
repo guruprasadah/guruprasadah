@@ -27,4 +27,4 @@ Because correctness matters.
 
 ### 🤖 fork of chocolate-doom
 
-A relatively simple fork of chocolate doom with game telemetry and external control, paired with a training server for PPO on a CNN based Reinforcement Learning architecture
+A relatively simple fork of chocolate doom with game telemetry and external control, paired with a training server for PPO on a CNN based Visual Reinforcement Learning architecture
